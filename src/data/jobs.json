@@ -1,0 +1,112 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "name": "Software Engineer",
+        "company": { "name": "Tech Corp" },
+        "locations": [{ "name": "Remote" }]
+      },
+      {
+        "id": 2,
+        "name": "Product Manager",
+        "company": { "name": "Innovate LLC" },
+        "locations": [{ "name": "San Francisco, CA" }]
+      },
+      {
+        "id": 3,
+        "name": "UX Designer",
+        "company": { "name": "Design Studio" },
+        "locations": [{ "name": "New York, NY" }]
+      },
+      {
+        "id": 4,
+        "name": "Data Scientist",
+        "company": { "name": "Data Insights" },
+        "locations": [{ "name": "London, UK" }]
+      },
+      {
+        "id": 5,
+        "name": "DevOps Engineer",
+        "company": { "name": "Cloud Solutions" },
+        "locations": [{ "name": "Berlin, Germany" }]
+      },
+      {
+        "id": 6,
+        "name": "Marketing Specialist",
+        "company": { "name": "Global Marketing" },
+        "locations": [{ "name": "Sydney, Australia" }]
+      },
+      {
+        "id": 7,
+        "name": "AI Researcher",
+        "company": { "name": "AI Labs" },
+        "locations": [{ "name": "Toronto, Canada" }]
+      },
+      {
+        "id": 8,
+        "name": "Frontend Developer",
+        "company": { "name": "Web Creators" },
+        "locations": [{ "name": "Paris, France" }]
+      },
+      {
+        "id": 9,
+        "name": "Backend Developer",
+        "company": { "name": "Code Masters" },
+        "locations": [{ "name": "Tokyo, Japan" }]
+      },
+      {
+        "id": 10,
+        "name": "Cybersecurity Analyst",
+        "company": { "name": "SecureTech" },
+        "locations": [{ "name": "Singapore" }]
+      },
+      {
+        "id": 11,
+        "name": "Mobile App Developer",
+        "company": { "name": "App Innovators" },
+        "locations": [{ "name": "São Paulo, Brazil" }]
+      },
+      {
+        "id": 12,
+        "name": "Cloud Architect",
+        "company": { "name": "Cloud Builders" },
+        "locations": [{ "name": "Dubai, UAE" }]
+      },
+      {
+        "id": 13,
+        "name": "Game Developer",
+        "company": { "name": "Game Studio" },
+        "locations": [{ "name": "Seoul, South Korea" }]
+      },
+      {
+        "id": 14,
+        "name": "IT Support Specialist",
+        "company": { "name": "Tech Support Co." },
+        "locations": [{ "name": "Mumbai, India" }]
+      },
+      {
+        "id": 15,
+        "name": "Business Analyst",
+        "company": { "name": "Biz Solutions" },
+        "locations": [{ "name": "Johannesburg, South Africa" }]
+      },
+      {
+        "id": 16,
+        "name": "Full Stack Developer",
+        "company": { "name": "Dev Hub" },
+        "locations": [{ "name": "Amsterdam, Netherlands" }]
+      },
+      {
+        "id": 17,
+        "name": "Machine Learning Engineer",
+        "company": { "name": "ML Innovations" },
+        "locations": [{ "name": "Zurich, Switzerland" }]
+      },
+      {
+        "id": 18,
+        "name": "Technical Writer",
+        "company": { "name": "Docs Inc." },
+        "locations": [{ "name": "Dublin, Ireland" }]
+      }
+    ]
+}

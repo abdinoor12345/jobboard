@@ -1,0 +1,34 @@
+{
+    "results": [
+      {
+        "id": 1,
+        "name": "Tech Corp",
+        "location": "San Francisco, CA",
+        "industry": "Software Development"
+      },
+      {
+        "id": 2,
+        "name": "Innovate LLC",
+        "location": "New York, NY",
+        "industry": "Financial Technology"
+      },
+      {
+        "id": 3,
+        "name": "Design Studio",
+        "location": "Remote",
+        "industry": "Creative Design"
+      },
+      {
+        "id": 4,
+        "name": "Green Future",
+        "location": "Austin, TX",
+        "industry": "Renewable Energy"
+      },
+      {
+        "id": 5,
+        "name": "HealthCare Plus",
+        "location": "Chicago, IL",
+        "industry": "Healthcare Services"
+      }
+    ]
+  }
